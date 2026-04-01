@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bella Gallo 👋
+# Hi, I'm Bella.
 
 **Computer Engineer · Aspiring Web Developer**
 
