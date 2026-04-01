@@ -14,9 +14,11 @@ spanning robotics, autonomous vehicles, scientific instruments, and the web!
 
 ### 📊 Stats
 
+<img src="https://github-readme-stats-3rwxnxurg-bg1750s-projects.vercel.app/api/top-langs/?username=bg1750&layout=compact&theme=dark&bg_color=0D0D0D&title_color=9940FF&text_color=D4CFC9&border_color=333333&langs_count=8" height="165" alt="Top Languages"/>
+
 <img src="https://github-readme-stats-3rwxnxurg-bg1750s-projects.vercel.app/api?username=bg1750&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=9940FF&icon_color=9940FF&text_color=D4CFC9&border_color=333333&count_private=true" height="165" alt="Bella's GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-3rwxnxurg-bg1750s-projects.vercel.app/api/top-langs/?username=bg1750&layout=compact&theme=dark&bg_color=0D0D0D&title_color=9940FF&text_color=D4CFC9&border_color=333333&langs_count=8" height="165" alt="Top Languages"/>
+
 
 ---
 
