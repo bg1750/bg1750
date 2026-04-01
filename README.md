@@ -10,9 +10,21 @@ spanning robotics, autonomous vehicles, scientific instruments, and the web.
 [![Portfolio](https://img.shields.io/badge/Portfolio-bg1750.github.io%2Fbellagallo-9940FF?style=flat-square&logo=github&logoColor=white)](https://bg1750.github.io/bellagallo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bella_Gallo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellagallo86328/)
 
-</div>
+---
+
+### 📊 Stats
+
+<img src="https://github-readme-stats-3rwxnxurg-bg1750s-projects.vercel.app/api?username=bg1750&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=9940FF&icon_color=9940FF&text_color=D4CFC9&border_color=333333&count_private=true" height="165" alt="Bella's GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-3rwxnxurg-bg1750s-projects.vercel.app/api/top-langs/?username=bg1750&layout=compact&theme=dark&bg_color=0D0D0D&title_color=9940FF&text_color=D4CFC9&border_color=333333&langs_count=8" height="165" alt="Top Languages"/>
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bg1750&theme=dark&background=0D0D0D&ring=9940FF&fire=9940FF&currStreakLabel=9940FF&sideLabels=D4CFC9&dates=555555&border=333333)](https://github.com/bg1750)
+
+---
+
+</div>
 
 ### 🔧 What I Work On
 
@@ -44,16 +56,6 @@ spanning robotics, autonomous vehicles, scientific instruments, and the web.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bg1750&theme=dark&background=0D0D0D&ring=9940FF&fire=9940FF&currStreakLabel=9940FF&sideLabels=D4CFC9&dates=555555&border=333333)](https://github.com/bg1750)
-
-</div>
 
 ---
 
