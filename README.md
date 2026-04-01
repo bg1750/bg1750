@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Bella.
+# Hey! I'm Bella.
 
 **Computer Engineer · Aspiring Web Developer**
 
 I build clean, intuitive interfaces for complex systems —
-spanning robotics, autonomous vehicles, scientific instruments, and the web.
+spanning robotics, autonomous vehicles, scientific instruments, and the web!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bg1750.github.io%2Fbellagallo-9940FF?style=flat-square&logo=github&logoColor=white)](https://bg1750.github.io/bellagallo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bella_Gallo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellagallo86328/)
