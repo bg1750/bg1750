@@ -35,8 +35,6 @@ I build clean, intuitive interfaces for complex systems robotics, autonomous veh
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=bg1750&theme=dark&background=0D0D0D&ring=9940FF&fire=9940FF&currStreakLabel=9940FF&sideLabels=D4CFC9&dates=555555&border=333333" alt="GitHub Streak"/>
-
 ---
 
 ### 🔧 What I Work On
