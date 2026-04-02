@@ -4,11 +4,7 @@
 
 **Computer Engineer · Aspiring Web Developer**
 
-I build clean, intuitive interfaces for complex systems —
-robotics, autonomous vehicles, scientific instruments, and the web.
-By day I'm an engineer who can't touch GitHub at work, by night I'm making up for it. 😄
-Everything here is personal — my best work is locked behind an NDA and a stern look from IT. 🔒
-Always learning, always building.
+I build clean, intuitive interfaces for complex systems robotics, autonomous vehicles, scientific instruments, and the web.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bg1750.github.io%2Fbellagallo-9940FF?style=flat-square&logo=github&logoColor=white)](https://bg1750.github.io/bellagallo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bella_Gallo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellagallo86328/)
